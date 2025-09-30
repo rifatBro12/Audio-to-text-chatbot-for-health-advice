@@ -1,4 +1,4 @@
-# Voice AI Disease Detection App
+# Voice System Symptoms Analyzer
 
 A voice-powered disease detection system that uses machine learning to analyze symptoms and provide preliminary medical assessments.
 
@@ -108,4 +108,5 @@ To extend or modify the application:
 ## License
 
 This project is for educational and research purposes. Please use responsibly and always consult medical professionals for health-related decisions.
+
 
